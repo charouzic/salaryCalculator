@@ -1,0 +1,6 @@
+/Users/viki/Desktop/Dixa/salary_calculator/obj/Debug/salary_calculator.csprojAssemblyReference.cache
+/Users/viki/Desktop/Dixa/salary_calculator/obj/Debug/salary_calculator.csproj.CoreCompileInputs.cache
+/Users/viki/Desktop/Dixa/salary_calculator/bin/Debug/salary_calculator.exe
+/Users/viki/Desktop/Dixa/salary_calculator/bin/Debug/salary_calculator.pdb
+/Users/viki/Desktop/Dixa/salary_calculator/obj/Debug/salary_calculator.exe
+/Users/viki/Desktop/Dixa/salary_calculator/obj/Debug/salary_calculator.pdb
